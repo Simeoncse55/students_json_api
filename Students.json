@@ -1,0 +1,124 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "college": "XYZ University",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "college": "ABC College",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "college": "123 College",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 4,
+      "name": "David Williams",
+      "college": "456 University",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 5,
+      "name": "Eva Davis",
+      "college": "789 College",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 6,
+      "name": "Frank Miller",
+      "college": "LMN University",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 7,
+      "name": "Grace Taylor",
+      "college": "OPQ College",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 8,
+      "name": "Henry Martin",
+      "college": "RST University",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 9,
+      "name": "Ivy Anderson",
+      "college": "UVW College",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 10,
+      "name": "Jack Wilson",
+      "college": "XYZ University",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 11,
+      "name": "Katie Brown",
+      "college": "ABC College",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 12,
+      "name": "Leo Harris",
+      "college": "123 College",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 13,
+      "name": "Mia Johnson",
+      "college": "456 University",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 14,
+      "name": "Nathan Davis",
+      "college": "789 College",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 15,
+      "name": "Olivia White",
+      "college": "LMN University",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 16,
+      "name": "Paul Miller",
+      "college": "OPQ College",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 17,
+      "name": "Quinn Taylor",
+      "college": "RST University",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 18,
+      "name": "Ryan Anderson",
+      "college": "UVW College",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 19,
+      "name": "Sara Wilson",
+      "college": "XYZ University",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    },
+    {
+      "id": 20,
+      "name": "Tyler Harris",
+      "college": "ABC College",
+      "image_url": "https://img.freepik.com/premium-vector/student-avatar-illustration-user-profile-icon-youth-avatar_118339-4404.jpg?w=740"
+    }
+  ]
+}
